@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/dialog_permission.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/message_shap_chat_bg.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/selector_ctype_location.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/selector_ctype_video.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_btn_bg.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_chat_head_bg.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_left_bubble_bc.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_mute_bc.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_record_microphone_bg.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_session_btn_voice.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_session_btn_voice_normal.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/drawable/shape_session_btn_voice_press.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/dialog_permission.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/dialog_record.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/include_menu_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/include_right_chat_item_nickname.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/include_right_chat_item_status.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/item_emoji.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/item_emoji_vprecy.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/layout_chat_emoji_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/module_dialog_zx_kick_out.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/popup_message_attach.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FangTianIM/module_imkit/src/main/res/layout/voicenotes_recorder_dialog.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
