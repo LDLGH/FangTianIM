@@ -52,7 +52,7 @@ dependencies {
 
     implementation 'androidx.core:core-ktx:1.3.2'
     //腾讯IM
-    api 'com.tencent.imsdk:imsdk-plus:6.3.2619'
+    api 'com.tencent.imsdk:imsdk-plus:6.6.3002'
     //工具类库
     implementation 'com.blankj:utilcodex:1.31.0'
 }
