@@ -32,7 +32,7 @@
                 <ImageView
                     android:id="@+id/recorder_dialog_ivVoice"
                     android:layout_width="wrap_content"
-                    android:layout_marginStart="@dimen/dp.12"
+                    android:layout_marginStart="12dp"
                     android:layout_gravity="bottom"
                     android:layout_height="35dp"
                     android:src="@mipmap/ic_record_volume_01"/>
@@ -60,7 +60,7 @@
             android:gravity="center"
             android:paddingLeft="5dp"
             android:paddingRight="5dp"
-            android:text="手指松开 开始发送"
+            android:text="@string/release_your_finger_to_start_sending"
             android:textColor="@color/white" />
 
     </LinearLayout>
