@@ -1,9 +1,9 @@
 <resources>
-    <string name="hold_to_speak">按住说话</string>
-    <string name="record_limit_tips">已达到最大语音长度</string>
-    <string name="release_your_finger_to_start_sending">手指松开 开始发送</string>
-    <string name="swipe_up_to_cancel_sending">手指上滑 取消发送</string>
-    <string name="talk_time_is_too_short">说话时间太短</string>
-    <string name="release_send">松开发送</string>
-    <string name="cancel_sending">取消发送</string>
+    <string name="hold_to_speak">Hold to talk</string>
+    <string name="record_limit_tips">Maximum voice length</string>
+    <string name="release_your_finger_to_start_sending">Finger release,Start sending</string>
+    <string name="swipe_up_to_cancel_sending">Finger up,Cancel sending</string>
+    <string name="talk_time_is_too_short">Talking time too short</string>
+    <string name="release_send">Release to send</string>
+    <string name="cancel_sending">Cancel sending</string>
 </resources>
